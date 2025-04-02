@@ -1,4 +1,4 @@
-# Altair Visualization Project – Kyle Wolff
+# Altair Visualization Midterm
 
 I used the Altair Python library to create a series of charts using a bikeshare dataset. Altair makes it really easy to build clean, interactive visuals with just a few lines of code.
 
